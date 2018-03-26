@@ -1,0 +1,8 @@
+﻿Audio
+-manifest
+EF SQL 
+
+Listview, responsive
+mVVM
+Wipe
+Share

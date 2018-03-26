@@ -3,6 +3,8 @@
 ''' </summary>
 NotInheritable Class App
     Inherits Application
+    Public connectionString As String = "Data Source=WIN10-PRE;Initial Catalog=Labs;Integrated Security=SSPI"
+
 
     ''' <summary>
     ''' Wird aufgerufen, wenn die Anwendung durch den Endbenutzer normal gestartet wird. Weitere Einstiegspunkte
